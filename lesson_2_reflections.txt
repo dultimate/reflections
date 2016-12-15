@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans ::- 
+		When we initialize a repository a .git directory is introduced in the directory.
+		To check this you need to do a ls -a and not just ls
+
+		We need to do this because .git directory is the thing that differentiates between a normal directory and a git repository.

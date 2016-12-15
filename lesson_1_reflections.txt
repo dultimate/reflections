@@ -1,0 +1,20 @@
+Before the the commit was made the worked fine.
+But after the change that was made some bug was introduced and it crashed the game.
+Using diff -u filename1 filename2 command helped me see what exactly has changed in the two files and where ?
+So this was very helpful in setting the code correct back to normalcy !
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+On having easy access to the entire history , we can see what changes have been made to reach a certain point !
+We can also see and keep track of our frequent errors and make them less frequent !
+It also helps in collaborwating with other people.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+When we have the control in our hands it's more often than not is better !
+We can work in our own pace without having to wory about the automatic save feature of the system.
+Automated process restrict our pace!
+It may not necessarily save the finished changes and this might be very troublesome!
+Make one commit per logical change! 
