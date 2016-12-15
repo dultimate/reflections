@@ -4,3 +4,8 @@ Ans ::-
 		To check this you need to do a ls -a and not just ls
 
 		We need to do this because .git directory is the thing that differentiates between a normal directory and a git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans ::-
+		Staging area provides an intermidiate between working directory and repository.
+		When you have to make a commit you can add multiple files to the stagin area and then commit them at once.
